@@ -1,3 +1,10 @@
-.row {
-	border: 1px solid pink;
+body{
+	background-color: #b2e9fd;
+}
+
+.header h1 {
+	color: #dc4247;
+}
+.header p {
+	color:#333;
 }
